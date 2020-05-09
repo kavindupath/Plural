@@ -11799,11 +11799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PATH\\Kavi\\.NET Core Project\\PluralHelloAzure\\PluralHelloAzure\\PluralHelloAzure.csproj",
+      "projectUniqueName": "F:\\PATH\\Kavi\\GIT\\GITPractise\\pluralGit\\Plural\\PluralHelloAzure\\PluralHelloAzure.csproj",
       "projectName": "PluralHelloAzure",
-      "projectPath": "F:\\PATH\\Kavi\\.NET Core Project\\PluralHelloAzure\\PluralHelloAzure\\PluralHelloAzure.csproj",
+      "projectPath": "F:\\PATH\\Kavi\\GIT\\GITPractise\\pluralGit\\Plural\\PluralHelloAzure\\PluralHelloAzure.csproj",
       "packagesPath": "C:\\Users\\kavindu\\.nuget\\packages\\",
-      "outputPath": "F:\\PATH\\Kavi\\.NET Core Project\\PluralHelloAzure\\PluralHelloAzure\\obj\\",
+      "outputPath": "F:\\PATH\\Kavi\\GIT\\GITPractise\\pluralGit\\Plural\\PluralHelloAzure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
